@@ -1,20 +1,58 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/7b/4c/4c/7b4c4c1c1d2a8c0c3f7f4f3f4d4b4b4.gif" width="100%" />
-
 # 🦇 Willyan Gabriel 🦇
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Iniciante;Dark+Code+Creator;Apaixonado+por+tecnologia;Welcome+to+the+dark+side..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Dark+Developer;Welcome+to+the+dark+side;Gothic+Profile" />
 
 </div>
 
 ---
 
-# 🌑 Sobre Mim
+# 💀 Sobre Mim
 
 ```txt
-💀 Desenvolvedor iniciante
 🖤 Estilo gótico
 ⚡ Aprendendo programação
 🎮 Gamer
 🌙 Dark aesthetic
+```
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillyanGabriel&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WillyanGabriel&theme=shadow_red&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+# ☠️ Linguagens
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyanGabriel&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/>
+
+</div>
+
+---
+
+# 🦇 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WillyanGabriel&bg_color=000000&color=8B0000&line=8B0000&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"In darkness, code becomes art."*
+
+</div>
