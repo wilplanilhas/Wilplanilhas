@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilplanilhas&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilplanilhas&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wilplanilhas&theme=shadow_red&hide_border=true&background=000000"/>
 
