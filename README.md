@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilplanilhas&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilplanilhas&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/>
 
 </div>
 
